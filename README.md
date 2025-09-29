@@ -1,2 +1,2 @@
-# Snack-Squad-A-Customisable-Snack-Ordering-and-Deliver
+# Snack-Squad-A-Customisable-Snack-Ordering-and-Deliver-
 Project 
